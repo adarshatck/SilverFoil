@@ -25,7 +25,7 @@ button {
     color: black;
     padding: 10px 20px;
     border-radius: 25px;
-    font-size: 1rem;
+    font-size: 1.6rem;
     cursor: pointer;
 }
 
@@ -54,7 +54,7 @@ button {
 
 /*-------------------------------------------------- Hero Section styles --------------------------------------*/
 .hero {
-    background-image: url('images/Foil.png'); /* Replace with actual image path */
+    background-image: url('/svgs/foil.svg'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -79,17 +79,17 @@ button {
 .hero-content {
     position: relative;
     z-index: 2;
-    margin-left: 100px;
+    margin-left: 60px;
 }
 
 .hero h1 {
-    font-size: 3rem;
+    font-size: 5rem;
     font-weight: bold;
 }
 
 .hero p {
     margin: 20px 0;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
 }
 
 .cta-button {
@@ -151,15 +151,15 @@ button {
 /* Mobile screens (max-width: 480px) */
 @media (max-width: 480px) {
     .hero h1 {
-        font-size: 2rem;
+        font-size: 4rem;
     }
 
     .hero p {
-        font-size: 0.9rem;
+        font-size: 2rem;
     }
 
     .cta-button {
-        font-size: 0.8rem;
+        font-size: 1.7rem;
         padding: 7px 14px;
     }
 
@@ -197,13 +197,13 @@ button {
   }
   
   .why-foil-stands-out h2 {
-    font-size: 2.5rem;
+    font-size: 5rem;
     font-weight: bold;
     margin-bottom: 20px;
   }
   
   .why-foil-stands-out .description {
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     color: #d0d0d0;
     margin-bottom: 40px;
   }
@@ -225,12 +225,12 @@ button {
   }
   
   .feature-item h3 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
   }
   
   .feature-item p {
-    font-size: 1rem;
+    font-size: 1.7rem;
     color: #b0b0b0;
   }
   
@@ -263,19 +263,19 @@ button {
     }
   
     .why-foil-stands-out h2 {
-      font-size: 1.8rem;
+      font-size: 3rem;
     }
   
     .why-foil-stands-out .description {
-      font-size: 1rem;
+      font-size: 1.9rem;
     }
   
     .feature-item h3 {
-      font-size: 1.3rem;
+      font-size: 2.3rem;
     }
   
     .feature-item p {
-      font-size: 0.9rem;
+      font-size: 1.9rem;
     }
   }
 
@@ -335,13 +335,13 @@ button {
 }
 
 .product-content h3 {
-    font-size: 1.5rem;
+    font-size: 2.7rem;
     color: #fff;
     margin-bottom: 10px;
 }
 
 .product-content p {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #ccc;
     line-height: 1.5;
 }
@@ -355,7 +355,7 @@ button {
     }
 
     .product-image img {
-        max-width: 80%; /* Make images larger on tablet */
+        max-width: 85%; /* Make images larger on tablet */
     }
 
     .product-content {
@@ -363,11 +363,11 @@ button {
     }
 
     .product-content h3 {
-        font-size: 1.4rem; /* Adjust heading font size for tablets */
+        font-size: 2.7rem; /* Adjust heading font size for tablets */
     }
 
     .product-content p {
-        font-size: 1rem; /* Paragraph font remains the same for tablet */
+        font-size: 1.5rem; /* Paragraph font remains the same for tablet */
     }
 }
 
@@ -413,11 +413,11 @@ button {
     }
 
     .product-content h3 {
-        font-size: 1.1rem; /* Smaller heading font for mobile */
+        font-size: 1.5rem; /* Smaller heading font for mobile */
     }
 
     .product-content p {
-        font-size: 0.8rem; /* Smaller paragraph font for small mobile */
+        font-size: 1.3rem; /* Smaller paragraph font for small mobile */
     }
 
     .product-image img {
@@ -439,13 +439,13 @@ button {
   
   /* Header styling */
   .why-choose-us-header h2 {
-    font-size: 2rem;
+    font-size: 2.8rem;
     margin-bottom: 10px;
     color: #fff;
   }
   
   .why-choose-us-header p {
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: #ccc;
   }
   
@@ -474,7 +474,7 @@ button {
   
   /* Paragraph inside each item */
   .why-choose-us-item p {
-    font-size: 1rem;
+    font-size: 1.5rem;
     color: #ccc;
     line-height: 1.5;
   }
@@ -512,7 +512,7 @@ button {
     }
   
     .why-choose-us-item p {
-      font-size: 0.9rem;
+      font-size: 1.5rem;
     }
   
     .why-choose-us-item img {
@@ -531,11 +531,11 @@ button {
     }
   
     .why-choose-us-header h2 {
-      font-size: 1.2rem;
+      font-size: 2rem;
     }
   
     .why-choose-us-header p {
-      font-size: 0.9rem;
+      font-size: 1.5rem;
     }
   }
 
@@ -561,7 +561,7 @@ button {
   }
   
   .footer-section h3 {
-    font-size: 1.2rem;
+    font-size: 2rem;
     color: #fff;
     margin-bottom: 15px;
     text-align: center;
@@ -575,7 +575,7 @@ button {
   }
   
   .footer-section ul li {
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin-bottom: 10px;
     line-height: 1.5;
   }
@@ -604,11 +604,11 @@ button {
   
   @media (max-width: 480px) {
     .footer-section h3 {
-      font-size: 1rem;
+      font-size: 1.7rem;
     }
   
     .footer-section ul li {
-      font-size: 0.9rem;
+      font-size: 1.5rem;
     }
   
     .footer-section ul li img {
