@@ -46,7 +46,7 @@ html {
 .logo {
     order: 1;
     width: auto; /* Adjust the width as per your logo size */
-    height: 64px;  /* Keeps the aspect ratio */
+    height: 100px;  /* Keeps the aspect ratio */
 }
 
 .menu-items li {
@@ -153,7 +153,7 @@ html {
 
     .logo {
         position: absolute;
-        top: 0px;
+        top: -22px;
         right: 0px;
         width: 120px; /* Adjust the logo size for smaller screens */
     }

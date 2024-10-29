@@ -79,12 +79,12 @@ body {
   }
   
   .value-item h3 {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     margin-bottom: 10px;
   }
   
   .value-item p {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
   
   /* Animations */
@@ -150,11 +150,11 @@ body {
     }
   
     .intro {
-      font-size: 1rem;
+      font-size: 1.5rem;
     }
   
     .value-item p {
-      font-size: 0.9rem;
+      font-size: 1.5rem;
     }
   
     .about-image img {

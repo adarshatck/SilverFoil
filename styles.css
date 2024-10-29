@@ -13,10 +13,11 @@ a {
 
 h1, h2 {
     margin: 0;
+    font-size: 3.5rem;
 }
 
 p {
-    font-size: 1.1rem;
+    font-size: 1.7rem;
 }
 
 button {
@@ -164,7 +165,7 @@ button {
     }
 
     .navbar {
-        padding: 10px 20px;
+        padding: 0px 0px;
     }
 
     .navbar .logo {
