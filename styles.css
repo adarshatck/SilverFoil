@@ -54,7 +54,7 @@ button {
 
 /*-------------------------------------------------- Hero Section styles --------------------------------------*/
 .hero {
-    background-image: url('/svgs/foil.svg'); /* Replace with actual image path */
+    background-image: url('svgs/foil.svg'); /* Replace with actual image path */
     background-size: cover;
     background-position: center;
     height: 100vh;
